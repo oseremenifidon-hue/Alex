@@ -1,55 +1,35 @@
- # Hi, I'm Ifidon Alex Oseremen 👋
+# Hi, I'm Ifidon Alex Oseremen 👋
 
-🎓 **MSc Toxicology (University of Potsdam)**  
-🧪 **Computational Toxicologist | Drug Discovery & Safety**
+**Computational Toxicologist | Drug Discovery & Safety**  
+MSc Toxicology, University of Potsdam
 
-I am a computational toxicologist specializing in **in-silico drug safety** and **predictive modeling** for early-stage drug discovery. My work focuses on leveraging **machine learning and statistical approaches** to anticipate toxicity risks and improve decision-making in preclinical development.
+I am interested in applying computational approaches to support safer and more efficient drug discovery, with a focus on **computational toxicology**, **in-silico safety assessment**, and **predictive modeling** for preclinical research.
 
----
+## Research Interests
+- Computational toxicology
+- Drug discovery and safety assessment
+- Predictive modeling for toxicity
+- Drug-induced liver injury (DILI)
+- Translational and human-relevant safety science
 
-## 🔬 Research Focus
-- Computational toxicology for drug discovery  
-- Predictive modeling of adverse drug effects  
-- Drug-induced liver injury (DILI)  
-- Data-driven safety assessment  
-- Translational and human-relevant toxicology  
+## Certifications
+- MSc Toxicology — University of Potsdam
+- Add other certifications here
 
----
+## Tools & Skills
+`Python` `R` `Machine Learning` `Statistical Analysis` `Data Interpretation` `Model Validation`
 
-## 🧠 Technical Skills
-- **Languages:** Python, R  
-- **Libraries:** scikit-learn, pandas, NumPy  
-- **Methods:** Machine learning, statistical modeling, model validation  
-- **Domains:** Toxicity prediction, cheminformatics (basic), data analysis  
+## Connect with Me
+- LinkedIn: add-your-link-here
+- Google Scholar: add-your-link-here
+- Email: add-your-email-here
 
----
+## Featured Learning Resources
+- **AI for Knowledge-Driven Discovery in Computational Toxicology** :contentReference[oaicite:1]{index=1}
+- **Automatic identification of drug-induced liver injury literature using natural language processing and machine learning methods** :contentReference[oaicite:2]{index=2}
+- **Introduction to Cheminformatics & Biomedical Drug Discovery** :contentReference[oaicite:3]{index=3}
+- **An Introduction to Computational Drug Discovery** :contentReference[oaicite:4]{index=4}
+- **Crunching the Data with Computational Toxicology** :contentReference[oaicite:5]{index=5}
 
-## 🚀 What I Do
-I integrate **biological insight** with **computational techniques** to:
-- Predict potential toxicity early in drug development  
-- Support safer compound selection  
-- Contribute to modern, non-animal safety strategies  
-
----
-
-## 📊 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
-
----
-
-## 🤝 Open to Collaborations
-- Computational toxicology  
-- Drug safety & predictive modeling  
-- Translational toxicology research  
-
----
-
-## 📫 Contact
-- LinkedIn: *Add your link here*  
-- Email: *Add your email here*  
-
----
-
-⭐ *Advancing safer drug development through computational science*
+## Open to
+Collaborations, research opportunities, and projects in **computational toxicology**, **drug safety**, and **data-driven drug discovery**.
