@@ -1,4 +1,4 @@
-# # Hi, I'm Ifidon Alex Oseremen 👋
+ # Hi, I'm Ifidon Alex Oseremen 👋
 
 🎓 **MSc Toxicology (University of Potsdam)**  
 🧪 **Computational Toxicologist | Drug Discovery & Safety**
