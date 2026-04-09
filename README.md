@@ -10,19 +10,18 @@ I am interested in applying computational approaches to support safer and more e
 - Drug discovery and safety assessment
 - Predictive modeling for toxicity
 - Drug-induced liver injury (DILI)
+- Regulatory toxicology
 - Translational and human-relevant safety science
 
 ## Certifications
 - MSc Toxicology — University of Potsdam
-- Add other certifications here
 
 ## Tools & Skills
-`Python` `R` `Machine Learning` `Statistical Analysis` `Data Interpretation` `Model Validation`
+`Python`  `Machine Learning` `Statistical Analysis` `Data Interpretation` `Model Validation`
 
 ## Connect with Me
-- LinkedIn: add-your-link-here
-- Google Scholar: add-your-link-here
-- Email: add-your-email-here
+- LinkedIn:(https://www.linkedin.com/in/alexifidon2345)
+- Email:oseremenifidon@gmail.com
 
 ## Featured Learning Resources
 - **AI for Knowledge-Driven Discovery in Computational Toxicology** :contentReference[oaicite:1]{index=1}
