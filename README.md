@@ -20,7 +20,7 @@ I am interested in applying computational approaches to support safer and more e
 `Python`  `Machine Learning` `Statistical Analysis` `Data Interpretation` `Model Validation`
 
 ## Connect with Me
-- LinkedIn:(https://www.linkedin.com/in/alexifidon2345)
+- LinkedIn:https://www.linkedin.com/in/alexifidon2345
 - Email:oseremenifidon@gmail.com
 
 ## Featured Learning Resources
