@@ -12,6 +12,21 @@ I am interested in applying computational approaches to support safer and more e
 - Drug-induced liver injury (DILI)
 - Regulatory toxicology
 - Translational and human-relevant safety science
+- ## 🚀 Featured Projects
+
+### 1. QSAR Classification – Earthworm Acute Toxicity
+Machine learning-based prediction of chemical toxicity using molecular descriptors, feature selection, model validation, and applicability domain assessment.
+
+**Tools:** Python, RDKit, Scikit-learn
+
+[View Classification Project](https://github.com/oseremenifidon-hue/QSAR-Earthworm-Toxicity-Classification)
+
+### 2. QSAR Regression – Rat Acute Toxicity (LC50)
+Development of QSAR regression models for predicting continuous toxicity endpoints using molecular descriptors and machine learning.
+
+**Tools:** Python, RDKit, Scikit-learn
+
+[View Regression Project](https://github.com/oseremenifidon-hue/QSAR-Rat-LC50-Regression)
 
 ## Certifications
 - MSc Toxicology — University of Potsdam
