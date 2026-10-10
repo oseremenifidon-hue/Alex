@@ -39,11 +39,11 @@ Development of QSAR regression models for predicting continuous toxicity endpoin
 - Email:oseremenifidon@gmail.com
 
 ## Featured Learning Resources
-- **AI for Knowledge-Driven Discovery in Computational Toxicology** :contentReference[oaicite:1]{index=1}
-- **Automatic identification of drug-induced liver injury literature using natural language processing and machine learning methods** :contentReference[oaicite:2]{index=2}
-- **Introduction to Cheminformatics & Biomedical Drug Discovery** :contentReference[oaicite:3]{index=3}
-- **An Introduction to Computational Drug Discovery** :contentReference[oaicite:4]{index=4}
-- **Crunching the Data with Computational Toxicology** :contentReference[oaicite:5]{index=5}
+- **AI for Knowledge-Driven Discovery in Computational Toxicology** 
+- **Automatic identification of drug-induced liver injury literature using natural language processing and machine learning methods**
+- **Introduction to Cheminformatics & Biomedical Drug Discovery** 
+- **An Introduction to Computational Drug Discovery** 
+- **Crunching the Data with Computational Toxicology**
 
 ## Open to
 Collaborations, research opportunities, and projects in **computational toxicology**, **drug safety**, and **data-driven drug discovery**.
