@@ -1,4 +1,4 @@
-# Hi, I'm Ifidon Alex Oseremen 👋
+# Hi, I'm Ifidon Alex Oseremen 
 
 **Computational Toxicologist | Drug Discovery & Safety**  
 MSc Toxicology, University of Potsdam
@@ -12,7 +12,7 @@ I am interested in applying computational approaches to support safer and more e
 - Drug-induced liver injury (DILI)
 - Regulatory toxicology
 - Translational and human-relevant safety science
-- ## 🚀 Featured Projects
+- ##  Featured Projects
 
 ### 1. QSAR Classification – Earthworm Acute Toxicity
 Machine learning-based prediction of chemical toxicity using molecular descriptors, feature selection, model validation, and applicability domain assessment.
